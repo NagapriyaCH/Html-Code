@@ -1,0 +1,27 @@
+descendent selectors
+div h1{
+    prop:val:
+}
+child selector
+div>p{
+    prop:val;
+}
+
+adjacent sibiling selector
+p+h1{
+    prop:val;
+}
+
+general sibiling selector
+p-h1{
+    prp:val;
+}
+ex:
+<div>
+p tag
+h2 tag
+h1 tag
+</div>
+
+
+

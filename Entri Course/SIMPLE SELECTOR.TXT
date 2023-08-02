@@ -1,0 +1,26 @@
+With id
+#id1{
+
+    property:value;
+}
+with class
+.clas{
+
+    prop:val;
+}
+all
+*{
+    prop:val;
+}
+with element
+p{
+    prop:val:
+}
+h1{
+    prop:val:
+}
+selectors only p elements with classname = class1
+
+p.class1{
+    prop:val;
+}
